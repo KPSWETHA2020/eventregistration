@@ -11,7 +11,7 @@ To create a UX design and develop a web application for event registration.
 ![output](./static/img/banregister.PNG)
 ![output](./static/img/bansuccess.PNG)
 ![output](./static/img/banfailed.PNG)
-![output](./static/img/participant.PNG)
+![output](./static/img/banparticipant.PNG)
 
 
 ## WIREFRAME:
